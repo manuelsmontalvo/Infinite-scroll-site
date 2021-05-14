@@ -8,7 +8,7 @@ let photosArray = [];
 
 // Unsplash API
 let numOfImgsToLoad = 5;
-const apiKey = config.apiKey;
+const apiKey = "LZOoZHCMHx4VlwVdqKAtD-M6-6BLynuAwV5KqrFTm7Q";
 
 let apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${numOfImgsToLoad}`;
 
